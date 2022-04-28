@@ -22,7 +22,4 @@ If something goes wrong, the ARFF file is also uploaded to this page. You can do
   13. If you would like to run our models, you can download them off, and then in WEKA, you right-click, and then click "Load model." Then, you can choose one of our models. Each of our models are named "kMeans.model" where k is equal to the number of clusters we specified.
 <img width="1016" alt="image" src="https://user-images.githubusercontent.com/78061469/165858033-abecaf3d-82e1-426d-8fca-fc81636b03eb.png">
 
-## Visualizations
-  14. Download kepler.csv and KeplerVisualizations.ipynb to see how we created some of the visualizations.
-
 
