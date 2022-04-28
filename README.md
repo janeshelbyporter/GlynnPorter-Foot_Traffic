@@ -1,4 +1,4 @@
-## Optimization of Bike Taxi Pickup Locations in Downtown Charleston
+####### Optimization of Bike Taxi Pickup Locations in Downtown Charleston
 Hi welcome to our GitHub! We researched the places with the highest foot traffic in downtown Charleston to find the best places for bike taxis to wait to pick people up. Here are a few steps to get started exploring our research.
   1. Download our data at this link. (We were limited by GitHub's file size requirements.)
   2. Download and run Data-Preprocessing.ipynb in Jupyter notebook. Make sure the csv files are saved in the same folder. If this step doesn't work for you, you can download weka-upload.csv. This is the file that the Data-Preprocessing code produces.
