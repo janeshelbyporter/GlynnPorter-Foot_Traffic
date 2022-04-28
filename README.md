@@ -7,8 +7,10 @@ If something goes wrong, the ARFF file is also uploaded to this page. You can do
   5. Next, open WEKA, and click "Explorer."
   6. Then, click "Open File," and choose weka-upload.arff.
 <img width="1019" alt="image" src="https://user-images.githubusercontent.com/78061469/165857167-7f2e142e-891b-4e1d-a243-e44a26bc4b4c.png">
-  6. After it loads, go to "Cluster." 
-  7. Then, click "Choose," and then "SimpleKMeans"
-<img width="1016" alt="image" src="https://user-images.githubusercontent.com/78061469/165857291-c770150c-7b62-4e6d-89a7-f5fe0d4e69ed.png">
+  7. After it loads, go to "Cluster." 
   8. Then, click "Choose," and then "SimpleKMeans"
+<img width="1016" alt="image" src="https://user-images.githubusercontent.com/78061469/165857291-c770150c-7b62-4e6d-89a7-f5fe0d4e69ed.png">
+  9. Then, click "Choose," and then "SimpleKMeans"
+  10. You can double-click "SimpleKMeans" at the top and change the number of clusters. We found that 5 was the best number of clusters.
+<img width="603" alt="image" src="https://user-images.githubusercontent.com/78061469/165857506-70791f1a-3c5d-46dd-92a2-83311c3413f4.png">
 
